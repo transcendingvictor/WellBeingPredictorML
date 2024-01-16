@@ -1,6 +1,6 @@
 # WellBeingPredictorML
 
-This project utilizes various Machine Learning (ML) models to predict the 'life satisfaction' variable in the Understanding Society: UK Household Longitudinal Study (UKHLS) survey.
+This project utilizes various Machine Learning (ML) models to predict the 'life satisfaction' variable in the Understanding Society: UK Household Longitudinal Study (UKHLS) survey. Within the repo, a pdf report of the task, the dictionary to understand the variable names and the python code to run the models are included. However, the dataset used is not included.
 
 ## Dataset
 
